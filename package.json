@@ -1,0 +1,10 @@
+{
+  "name": "generate-course-certificate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "pdfkit": "^0.14.0"
+  }
+}
